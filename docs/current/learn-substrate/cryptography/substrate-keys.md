@@ -104,7 +104,7 @@ security.
 
 ### Learn More
 
-* Learn about the [cryptography used within Substrate](/docs/pre-v2.0-3e65111/learn-substrate/cryptography).
+* Learn about the [cryptography used within Substrate](learn-substrate/cryptography).
 
 ### Examples
 

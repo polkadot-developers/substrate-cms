@@ -4,12 +4,12 @@
 	"title": "Front End",
 	"menu": [
 		{
-			"title": "Front-End Template",
+			"title": "Polkadot JS",
 			"slug": "index"
 		},
 		{
-			"title": "Polkadot JS",
-			"slug": "polkadot-js"
+			"title": "Front-End Template",
+			"slug": "front-end-template"
 		},
 		{
 			"title": "JSON RPC",
