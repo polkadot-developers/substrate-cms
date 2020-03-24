@@ -104,7 +104,7 @@ security.
 
 ### Learn More
 
-* Learn about the [cryptography used within Substrate](cryptography).
+* Learn about the [cryptography used within Substrate](learn-substrate/cryptography).
 
 ### Examples
 
