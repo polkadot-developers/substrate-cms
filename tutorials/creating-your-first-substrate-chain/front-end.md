@@ -171,12 +171,12 @@ comments to learn what each part is doing.
 Your front-end should have automatically restarted with this new component included. Select any file
 on your computer, and you will see that you can create a claim with it's file digest:
 
-![Proof Of Existence Component](assets/poe-component.png)
+![Proof Of Existence Component](/assets/poe-component.png)
 
 If you press "Create Claim", a transaction will be dispatched to your custom Proof of Existence
 pallet, where this digest and the selected user account will be stored on chain.
 
-![Claimed File](assets/poe-claimed.png)
+![Claimed File](/assets/poe-claimed.png)
 
 If all went well, you should see a new `ClaimCreated` event appear in the Events component. The
 front-end can automatically recognize that your file is now claimed, and even gives you the option
