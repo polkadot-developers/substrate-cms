@@ -48,6 +48,16 @@
 			"title": "Stable Coin and Storage Adapters",
 			"description": "Alexander Popiak joins us to discuss his uncollateralized stablecoin implementation and the 'Transient Storage Adapters' pattern",
 			"link": "https://www.youtube.com/watch?v=bnC5RQsaAXQ&list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS"
+		},
+		{
+			"title": "Manual Seal and Instant Seal",
+			"description": "This week Seun LanLege helps us build a Substrate node that uses manual seal and instant seal consensus engines.",
+			"link": "https://www.youtube.com/watch?v=uhkV0jAcWDY&list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS"
+		},
+		{
+			"title": "Moonbeam and EVM Pallet",
+			"description": "Derek from Purestake tells us about their Moonbeam contract chain, and Parity's Kirill Taran demonstrates using the EVM pallet.",
+			"link": "https://www.youtube.com/watch?v=lXw6GTNh73Y&list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS"
 		}
 	],
 	"footer_text": "don't miss the next seminar"
