@@ -1,0 +1,39 @@
+{
+	"slug": "seminar",
+	"lang": "en",
+	"title": "The Substrate Seminar",
+	"subtitle": "a collaborative learning group.",
+	"g_cal_link": "https://calendar.google.com/event?action=TEMPLATE&tmeid=MXFuaHJ1OWZyY2g1NTY0aDV1YW9zNXBlNThfMjAyMDAzMTdUMTQwMDAwWiBwYXJpdHkuaW9fMzkzNzkzNDNoMDczdjA2cWh0MXZwcWNlZmNAZw&tmsrc=parity.io_39379343h073v06qht1vpqcefc%40group.calendar.google.com&scp=ALL",
+	"first_description": "Substrate Seminar is an open collaborative learning call where we learn about Substrate together.",
+	"rotating_intro_text": "open collaborative learning",
+	"main_description": "Substrate Seminar is an open Collaborative Learning call where we learn about Substrate together. We meet every Tuesday at 14:00UTC. Ask for help, show off your project, learn Substrate, and make friends!",
+	"topics": [
+		{
+			"date": "April 14th",
+			"content": "Cecile Tonglet will join us to talk about the new Substrate CLI and how to use and extend it. We may also briefly explore the Substrate Service and Cumulus."
+		},
+		{
+			"date": "April 21st",
+			"content": "Joshy Orndorff and Nicole Zhu will discuss a UTXO pallet and creating a bitcoin-like chain on Substrate."
+		},
+		{
+			"date": "April 28th",
+			"content": "<strong>Seminar is Cancelled</strong>. Let's all attend <a href='https://sub0.parity.io'>Sub0 Online</a> instead!"
+		}
+	],
+	"faqs": [
+		{
+			"question": "How do I join the call?",
+			"answer": "We meet using zoom video conferencing. Specifically we meet in <a href='https://zoom.us/j/916767726'>https://zoom.us/j/916767726</a>. This link will only work when the call is live, so you may prefer to add this <a href='https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MXFuaHJ1OWZyY2g1NTY0aDV1YW9zNXBlNThfMjAyMDAzMTdUMTQwMDAwWiBwYXJpdHkuaW9fMzkzNzkzNDNoMDczdjA2cWh0MXZwcWNlZmNAZw&amp;tmsrc=parity.io_39379343h073v06qht1vpqcefc%40group.calendar.google.com&amp;scp=ALL'>Google calendar invitation</a> to you own calendar."
+		}
+	],
+	"rotating_outro_text": "previous calls",
+	"videos": [
+		{
+			"title": "Stable Coin and Storage Adapters",
+			"description": "Alexander Popiak joins us to discuss his uncollateralized stablecoin implementation and the 'Transient Storage Adapters' pattern",
+			"link": "https://www.youtube.com/watch?v=bnC5RQsaAXQ&list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS"
+		}
+	],
+	"footer_text": "don't miss the next seminar"
+}
