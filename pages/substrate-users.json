@@ -1,0 +1,252 @@
+{
+	"slug": "substrate-users",
+	"lang": "en",
+	"title": "Teams using Substrate",
+	"users": [
+		{
+			"name": "Edgeware",
+			"image": "assets/logos/edgeware.png",
+			"link": "https://edgewa.re/"
+		},
+		{
+			"name": "Polkascan",
+			"image": "assets/logos/polkascan.png",
+			"link": "https://polkascan.io/"
+		},
+		{
+			"name": "AdEx",
+			"image": "assets/logos/adex.png",
+			"link": "https://www.adex.network/"
+		},
+		{
+			"name": "ChainX",
+			"image": "assets/logos/chainx.png",
+			"link": "https://chainx.org/"
+		},
+		{
+			"name": "Ocean Protocol",
+			"image": "assets/logos/oceanprotocol.svg",
+			"link": "https://oceanprotocol.com/"
+		},
+		{
+			"name": "ChainLink",
+			"image": "assets/logos/chainlink.png",
+			"link": "https://chain.link/"
+		},
+		{
+			"name": "LayerX",
+			"image": "assets/logos/layerx.png",
+			"link": "https://layerx.co.jp/"
+		},
+		{
+			"name": "Robonomics",
+			"image": "assets/logos/robonomics.png",
+			"link": "https://robonomics.network/en/"
+		},
+		{
+			"name": "MXC",
+			"image": "assets/logos/mxc.png",
+			"link": "https://www.mxc.org/"
+		},
+		{
+			"name": "Katal",
+			"image": "assets/logos/katal.png",
+			"link": "https://katal.dev/"
+		},
+		{
+			"name": "Joystream",
+			"image": "assets/logos/joystream.svg",
+			"link": "https://www.joystream.org/"
+		},
+		{
+			"name": "Ladder Network",
+			"image": "assets/logos/laddernetwork.png",
+			"link": "http://laddernetwork.io/"
+		},
+		{
+			"name": "Asure Network",
+			"image": "assets/logos/asurenetwork.svg",
+			"link": "https://www.asure.network/"
+		},
+		{
+			"name": "KILT Protocol",
+			"image": "assets/logos/kiltprotocol_full.png",
+			"link": "https://kilt.io/"
+		},
+		{
+			"name": "PACTCare Starlog",
+			"image": "assets/logos/starlog.png",
+			"link": "https://pact.care/"
+		},
+		{
+			"name": "Akropolis",
+			"image": "assets/logos/akropolis.png",
+			"link": "https://akropolis.io/"
+		},
+		{
+			"name": "Staked Technologies",
+			"image": "assets/logos/plasm.png",
+			"link": "https://staked.co.jp/"
+		},
+		{
+			"name": "Speckle OS",
+			"image": "assets/logos/speckleos.png",
+			"link": "https://www.speckleos.io/"
+		},
+		{
+			"name": "Centrifuge",
+			"image": "assets/logos/centrifuge.svg",
+			"link": "https://centrifuge.io/"
+		},
+		{
+			"name": "Parity Ethereum 2.0",
+			"image": "assets/logos/parity-ethereum.svg",
+			"link": "https://www.parity.io/ethereum/"
+		},
+		{
+			"name": "Horizon Games",
+			"image": "assets/logos/horizongames.svg",
+			"link": "https://horizongames.net/"
+		},
+		{
+			"name": "Polkadot Network",
+			"image": "assets/logos/polkadot.svg",
+			"link": "https://polkadot.network/"
+		},
+		{
+			"name": "Totem Accounting",
+			"image": "assets/logos/totem.png",
+			"link": "https://totemaccounting.com/"
+		},
+		{
+			"name": "Enzyme",
+			"image": "assets/logos/enzyme.png",
+			"link": "https://getenzyme.dev/"
+		},
+		{
+			"name": "Protos",
+			"image": "assets/logos/protos.gif",
+			"link": "http://protosmanagement.com/"
+		},
+		{
+			"name": "substraTEE",
+			"image": "assets/logos/SCS.svg",
+			"link": "https://www.scs.ch/"
+		},
+		{
+			"name": "Kusama",
+			"image": "assets/logos/kusama_01.png",
+			"link": "https://kusama.network/"
+		},
+		{
+			"name": "Bifrost",
+			"image": "assets/logos/Bifrost.png",
+			"link": "https://bifrost.codes/"
+		},
+		{
+			"name": "Blockdaemon",
+			"image": "assets/logos/Blockdaemon.png",
+			"link": "https://blockdaemon.com"
+		},
+		{
+			"name": "Caelum Labs",
+			"image": "assets/logos/Caelumlabs.png",
+			"link": "https://caelumlabs.com"
+		},
+		{
+			"name": "Daohub",
+			"image": "assets/logos/Daohub.png",
+			"link": "https://daohub.io"
+		},
+		{
+			"name": "Darwinia",
+			"image": "assets/logos/Darwinia.png",
+			"link": "https://darwinia.network/"
+		},
+		{
+			"name": "Dock.io",
+			"image": "assets/logos/dockio.png",
+			"link": "https://dock.io/"
+		},
+		{
+			"name": "Dothereum",
+			"image": "assets/logos/Dothereum.png",
+			"link": "http://dothereum.net/"
+		},
+		{
+			"name": "Everstake",
+			"image": "assets/logos/Everstake.png",
+			"link": "https://everstake.one/"
+		},
+		{
+			"name": "Gunclear",
+			"image": "assets/logos/Gunclear.png",
+			"link": "https://gunclear.io/"
+		},
+		{
+			"name": "HiveNet",
+			"image": "assets/logos/HiveNet.png",
+			"link": "https://www.hivenet.cloud/"
+		},
+		{
+			"name": "Laminar",
+			"image": "assets/logos/Laminar.png",
+			"link": "https://laminar.one/"
+		},
+		{
+			"name": "Litentry",
+			"image": "assets/logos/Litentry.png",
+			"link": "https://litentry.com/"
+		},
+		{
+			"name": "MixBytes",
+			"image": "assets/logos/MixBytes.png",
+			"link": "https://mixbytes.io/"
+		},
+		{
+			"name": "Ngrave",
+			"image": "assets/logos/Ngrave.png",
+			"link": "https://www.ngrave.io/"
+		},
+		{
+			"name": "Phala Network",
+			"image": "assets/logos/Phala.png",
+			"link": "https://phala.network/"
+		},
+		{
+			"name": "Runtime Verification",
+			"image": "assets/logos/Runtime Verification.png",
+			"link": "https://runtimeverification.com/"
+		},
+		{
+			"name": "Swarm City",
+			"image": "assets/logos/SwarmCity.png",
+			"link": "https://swarm.city/"
+		},
+		{
+			"name": "Symbolic Software",
+			"image": "assets/logos/SymbolicSoftware.png",
+			"link": "https://symbolic.software/"
+		},
+		{
+			"name": "Use Tech",
+			"image": "assets/logos/UseTech.png",
+			"link": "https://www.usetech.com/"
+		},
+		{
+			"name": "Validators",
+			"image": "assets/logos/Validators.png",
+			"link": "https://validators.com/"
+		},
+		{
+			"name": "ValidityLabs",
+			"image": "assets/logos/ValidityLabs.png",
+			"link": "https://validitylabs.org"
+		},
+		{
+			"name": "WiV",
+			"image": "assets/logos/WiV.png",
+			"link": "https://wiv.io/"
+		}
+	]
+}
