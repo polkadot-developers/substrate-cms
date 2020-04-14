@@ -1,0 +1,13 @@
+- [ ] Are the audience and objective of the document clear? E.g. a document
+for developers that should teach them about transaction fees.
+- [ ] Is the writing:
+  - **Clear**: No jargon.
+  - **Precise**: No ambiguous meanings.
+  - **Concise**: Free of superfluous detail.
+- [ ] Does it follow our [style guide](#documentation-style)?
+- [ ] If this is a new page, does the PR include the appropriate infrastructure, e.g. adding the
+page to a sidebar?
+- [ ] Build the page (TODO link section with instructions). Does it render properly? E.g. no funny lists
+or formatting.
+- [ ] Do links go to rustdocs or devhub articles rather than code?
+- [ ] If this PR addresses an issue in the queue, have you referenced it in the description?
