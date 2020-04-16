@@ -4,6 +4,26 @@
 	"title": "Teams using Substrate",
 	"users": [
 		{
+			"name": "Centrifuge",
+			"image": "assets/logos/centrifuge.svg",
+			"link": "https://centrifuge.io/"
+		},
+		{
+			"name": "Ocean Protocol",
+			"image": "assets/logos/oceanprotocol.svg",
+			"link": "https://oceanprotocol.com/"
+		},
+		{
+			"name": "ChainLink",
+			"image": "assets/logos/chainlink.png",
+			"link": "https://chain.link/"
+		},
+		{
+			"name": "KILT Protocol",
+			"image": "assets/logos/kiltprotocol_full.png",
+			"link": "https://kilt.io/"
+		},
+		{
 			"name": "Edgeware",
 			"image": "assets/logos/edgeware.png",
 			"link": "https://edgewa.re/"
@@ -22,16 +42,6 @@
 			"name": "ChainX",
 			"image": "assets/logos/chainx.png",
 			"link": "https://chainx.org/"
-		},
-		{
-			"name": "Ocean Protocol",
-			"image": "assets/logos/oceanprotocol.svg",
-			"link": "https://oceanprotocol.com/"
-		},
-		{
-			"name": "ChainLink",
-			"image": "assets/logos/chainlink.png",
-			"link": "https://chain.link/"
 		},
 		{
 			"name": "LayerX",
@@ -69,11 +79,6 @@
 			"link": "https://www.asure.network/"
 		},
 		{
-			"name": "KILT Protocol",
-			"image": "assets/logos/kiltprotocol_full.png",
-			"link": "https://kilt.io/"
-		},
-		{
 			"name": "PACTCare Starlog",
 			"image": "assets/logos/starlog.png",
 			"link": "https://pact.care/"
@@ -93,16 +98,7 @@
 			"image": "assets/logos/speckleos.png",
 			"link": "https://www.speckleos.io/"
 		},
-		{
-			"name": "Centrifuge",
-			"image": "assets/logos/centrifuge.svg",
-			"link": "https://centrifuge.io/"
-		},
-		{
-			"name": "Parity Ethereum 2.0",
-			"image": "assets/logos/parity-ethereum.svg",
-			"link": "https://www.parity.io/ethereum/"
-		},
+
 		{
 			"name": "Horizon Games",
 			"image": "assets/logos/horizongames.svg",
@@ -167,11 +163,6 @@
 			"name": "Dock.io",
 			"image": "assets/logos/dockio.png",
 			"link": "https://dock.io/"
-		},
-		{
-			"name": "Dothereum",
-			"image": "assets/logos/Dothereum.png",
-			"link": "http://dothereum.net/"
 		},
 		{
 			"name": "Everstake",
