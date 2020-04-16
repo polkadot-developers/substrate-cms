@@ -4,6 +4,11 @@
 	"title": "Teams using Substrate",
 	"users": [
 		{
+			"name": "Polymath",
+			"image": "assets/logos/polymath.svg",
+			"link": "https://polymath.network/"
+		},
+		{
 			"name": "Centrifuge",
 			"image": "assets/logos/centrifuge.svg",
 			"link": "https://centrifuge.io/"
