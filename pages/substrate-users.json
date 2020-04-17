@@ -210,6 +210,11 @@
 			"link": "https://runtimeverification.com/"
 		},
 		{
+			"name": "Subsocial",
+			"image": "assets/logos/subsocial.svg",
+			"link": "http://subsocial.network/"
+		},
+		{
 			"name": "Swarm City",
 			"image": "assets/logos/SwarmCity.png",
 			"link": "https://swarm.city/"
