@@ -248,6 +248,282 @@
 			"name": "WiV",
 			"image": "assets/logos/WiV.png",
 			"link": "https://wiv.io/"
+		},
+		{
+			"name": "BlockUnison",
+			"image": "assets/logos/Blockunison.png",
+			"link": "https://blockunison.com/"
+		},		
+		{
+			"name": "0x",
+			"image": "assets/logos/0x.png",
+			"link": "https://0x.org/"
+		},		
+		{
+			"name": "Acala",
+			"image": "assets/logos/acala.png",
+			"link": "https://acala.network/"
+		},		
+		{
+			"name": "Airgap",
+			"image": "assets/logos/Airgap.png",
+			"link": "https://airgap.it/"
+		},		
+		{
+			"name": "Atoken",
+			"image": "assets/logos/Atoken.jpg",
+			"link": "https://www.atoken.com/"
+		},		
+		{
+			"name": "Atomic Wallet",
+			"image": "assets/logos/atomicwallet.png",
+			"link": "https://atomicwallet.io/"
+		},		
+		{
+			"name": "Avado",
+			"image": "assets/logos/avado.jpg",
+			"link": "https://ava.do/"
+		},		
+		{
+			"name": "Bandot",
+			"image": "assets/logos/Bandot.jpg",
+			"link": "http://bandot.io/"
+		},		
+		{
+			"name": "Blockx Labs",
+			"image": "assets/logos/blockx.png",
+			"link": "https://blockxlabs.com/"
+		},		
+		{
+			"name": "Cap9",
+			"image": "assets/logos/cap9.jpg",
+			"link": "https://cap9.io/"
+		},		
+		{
+			"name": "Celer",
+			"image": "assets/logos/celer.png",
+			"link": "https://www.celer.network/"
+		},		
+	
+		{
+			"name": "Chainsafe",
+			"image": "assets/logos/Chainsafe.png",
+			"link": "https://chainsafe.io/"
+		},		
+		{
+			"name": "Cobo Wallet",
+			"image": "assets/logos/cobowallet.jpg",
+			"link": "https://cobo.com/"
+		},		
+		{
+			"name": "Crust",
+			"image": "assets/logos/crust.png",
+			"link": "https://crust.network/"
+		},		
+		{
+			"name": "Cryptoeconomics Lab",
+			"image": "assets/logos/cryptoeconomicslab.jpg",
+			"link": "https://www.cryptoeconomicslab.com/"
+		},		
+		{
+			"name": "DeepBrain Chain",
+			"image": "assets/logos/deepbrainchain.png",
+			"link": "https://www.deepbrainchain.org/"
+		},		
+		{
+			"name": "Entropy Labs",
+			"image": "assets/logos/Entropylabs Spectrum.png",
+			"link": "https://entropylabs.hk/about.html"
+		},		
+		{
+			"name": "Equilibrium",
+			"image": "assets/logos/equilibrium.jpg",
+			"link": "https://equilibrium.io/"
+		},		
+		{
+			"name": "ETCDEV",
+			"image": "assets/logos/ETCDEV.png",
+			"link": "https://emeraldpay.io/"
+		},		
+		{
+			"name": "Figment",
+			"image": "assets/logos/Figment.jpg",
+			"link": "https://figment.network/"
+		},				
+		{
+			"name": "Flex Dapps",
+			"image": "assets/logos/Flexdapps.png",
+			"link": "https://flexdapps.com/"
+		},		
+		{
+			"name": "Gamedao",
+			"image": "assets/logos/Gamedao.png",
+			"link": "https://gamedao.co/"
+		},		
+		{
+			"name": "Liqum",
+			"image": "assets/logos/Liqum.gif",
+			"link": "https://liqum.io/"
+		},		
+		{
+			"name": "Lunie",
+			"image": "assets/logos/Lunie.png",
+			"link": "https://lunie.io/"
+		},		
+		{
+			"name": "Math Wallet",
+			"image": "assets/logos/mathwallet.jpg",
+			"link": "https://www.mathwallet.org/en-us/"
+		},		
+		{
+			"name": "Matter Labs",
+			"image": "assets/logos/Matterlabs.jpg",
+			"link": "https://matter-labs.io/"
+		},		
+		{
+			"name": "Metaverse DNA",
+			"image": "assets/logos/Metaverse.png",
+			"link": "https://mvsdna.com/"
+		},		
+		{
+			"name": "Moonbeam",
+			"image": "assets/logos/Moonbeam.png",
+			"link": "https://moonbeam.network/"
+		},		
+		{
+			"name": "mpowa",
+			"image": "assets/logos/mpowa.png",
+			"link": "https://mpowa.io/"
+		},		
+		{
+			"name": "Node Factory",
+			"image": "assets/logos/nodefactory.png",
+			"link": "https://nodefactory.io/"
+		},		
+		{
+			"name": "Polkastats",
+			"image": "assets/logos/pokastats.jpg",
+			"link": "https://polkastats.io/"
+		},		
+		{
+			"name": "Noise Explorer",
+			"image": "assets/logos/noiseexplorer.jpg",
+			"link": "https://noiseexplorer.com/"
+		},		
+		{
+			"name": "Obsidian Labs",
+			"image": "assets/logos/obsidianlabs.png",
+			"link": "https://www.obsidians.io/"
+		},		
+		{
+			"name": "Pixura",
+			"image": "assets/logos/pixura.jpg",
+			"link": "https://pixura.io/"
+		},		
+		{
+			"name": "Polkawallet",
+			"image": "assets/logos/polkawallet.jpg",
+			"link": "https://polkawallet.io/"
+		},		
+		{
+			"name": "Prochain",
+			"image": "assets/logos/Prochain.png",
+			"link": "https://chain.pro/"
+		},		
+		{
+			"name": "Qbao Network",
+			"image": "assets/logos/Qbao Network.png",
+			"link": "https://qbao.fund/#/"
+		},		
+		{
+			"name": "Qlikchain",
+			"image": "assets/logos/Qlikchain.png",
+			"link": "https://www.qlikchain.com/"
+		},		
+		{
+			"name": "Safepal",
+			"image": "assets/logos/safepal.png",
+			"link": "https://safepal.io/"
+		},		
+		{
+			"name": "Second State",
+			"image": "assets/logos/secondstate.png",
+			"link": "https://www.secondstate.io/"
+		},		
+		{
+			"name": "Sensio",
+			"image": "assets/logos/Sensio.png",
+			"link": "https://www.sensio.group/"
+		},		
+		{
+			"name": "SHIFT Project",
+			"image": "assets/logos/SHIFT project.jpg",
+			"link": "https://shiftnrg.org/"
+		},		
+		{
+			"name": "Social Network",
+			"image": "assets/logos/socialnetwork.jpg",
+			"link": "https://www.sensio.group/"
+		},		
+		{
+			"name": "Soramitsu",
+			"image": "assets/logos/Soramitsu.jpg",
+			"link": "https://soramitsu.co.jp/"
+		},		
+		{
+			"name": "stacktical",
+			"image": "assets/logos/stacktical.svg",
+			"link": "https://stacktical.com/"
+		},		
+		{
+			"name": "Stafi",
+			"image": "assets/logos/Stafi.png",
+			"link": "http://www.stafi.io/"
+		},		
+		{
+			"name": "Swisscom",
+			"image": "assets/logos/swisscom.png",
+			"link": "https://www.blockchain.swisscom.com/"
+		},			
+		{
+			"name": "TokenPocket",
+			"image": "assets/logos/Tokenpocket.png",
+			"link": "https://www.tokenpocket.pro/"
+		},		
+		{
+			"name": "Transparent Systems",
+			"image": "assets/logos/Transparent Systems.png",
+			"link": "https://www.transparentsystems.com/"
+		},		
+		{
+			"name": "Trust Wallet",
+			"image": "assets/logos/trustwallet.png",
+			"link": "https://trustwallet.com/"
+		},		
+		{
+			"name": "Tswap",
+			"image": "assets/logos/tswap.jpeg",
+			"link": "http://tswap.org/"
+		},
+		{
+			"name": "Turbine Kreuzberg",
+			"image": "assets/logos/TurbineKreuzberg.png",
+			"link": "https://turbinekreuzberg.com/en"
+		},
+		{
+			"name": "Valiu",
+			"image": "assets/logos/valiu.png",
+			"link": "https://www.valiu.com/"
+		},
+		{
+			"name": "Xaya",
+			"image": "assets/logos/xaya.png",
+			"link": "https://xaya.io/"
+		},
+		{
+			"name": "Yeeco",
+			"image": "assets/logos/yeeco.png",
+			"link": "https://www.yeeco.io/"
 		}
 	]
 }
