@@ -271,7 +271,7 @@
 		},
 		{
 			"name": "Atoken",
-			"image": "assets/logos/Atoken.jpg",
+			"image": "assets/logos/atoken.jpg",
 			"link": "https://www.atoken.com/"
 		},
 		{
@@ -322,7 +322,7 @@
 		},
 		{
 			"name": "Cryptoeconomics Lab",
-			"image": "assets/logos/cryptoeconomicslab.jpg",
+			"image": "assets/logos/cryptoeconomics-lab.jpg",
 			"link": "https://www.cryptoeconomicslab.com/"
 		},
 		{
@@ -402,7 +402,7 @@
 		},
 		{
 			"name": "Polkastats",
-			"image": "assets/logos/pokastats.jpg",
+			"image": "assets/logos/polkastats.jpg",
 			"link": "https://polkastats.io/"
 		},
 		{
