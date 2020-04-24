@@ -12,14 +12,6 @@
 	"main_description": "Substrate Seminar is an open Collaborative Learning call where we learn about Substrate together. We meet every Tuesday at 14:00UTC. Ask for help, show off your project, learn Substrate, and make friends!",
 	"topics": [
 		{
-			"date": "April 14th",
-			"content": "Cecile Tonglet will join us to talk about the new Substrate CLI and how to use and extend it. We may also briefly explore the Substrate Service and Cumulus."
-		},
-		{
-			"date": "April 21st",
-			"content": "Joshy Orndorff and Nicole Zhu will discuss a UTXO pallet and creating a bitcoin-like chain on Substrate."
-		},
-		{
 			"date": "April 28th",
 			"content": "<strong>Seminar is Cancelled</strong>. Let's all attend <a href='https://sub0.parity.io'>Sub0 Online</a> instead!"
 		}
