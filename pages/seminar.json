@@ -45,6 +45,16 @@
 	"rotating_outro_text": "previous calls",
 	"videos": [
 		{
+			"title": "UTXOs and a Bitcoin-like Chain",
+			"description": "This week Nicole Zhu and Joshy Orndorff discuss the architecture of a Bitcoin-like node built with Substrate.",
+			"link": "https://www.youtube.com/watch?v=XuJmxMMHvDw&list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS"
+		},
+		{
+			"title": "StructOpt and the Substrate CLI",
+			"description": "This week Cecile Tonglet explores how Substrate uses the Stuct Opt library to build an extensible CLI interface.",
+			"link": "https://www.youtube.com/watch?v=IVifko1fqjw&list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS"
+		},
+		{
 			"title": "Stable Coin and Storage Adapters",
 			"description": "Alexander Popiak joins us to discuss his uncollateralized stablecoin implementation and the 'Transient Storage Adapters' pattern",
 			"link": "https://www.youtube.com/watch?v=bnC5RQsaAXQ&list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS"
