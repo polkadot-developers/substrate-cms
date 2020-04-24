@@ -12,14 +12,6 @@
 	"main_description": "Substrate Seminar is an open Collaborative Learning call where we learn about Substrate together. We meet every Tuesday at 14:00UTC. Ask for help, show off your project, learn Substrate, and make friends!",
 	"topics": [
 		{
-			"date": "April 14th",
-			"content": "Cecile Tonglet will join us to talk about the new Substrate CLI and how to use and extend it. We may also briefly explore the Substrate Service and Cumulus."
-		},
-		{
-			"date": "April 21st",
-			"content": "Joshy Orndorff and Nicole Zhu will discuss a UTXO pallet and creating a bitcoin-like chain on Substrate."
-		},
-		{
 			"date": "April 28th",
 			"content": "<strong>Seminar is Cancelled</strong>. Let's all attend <a href='https://sub0.parity.io'>Sub0 Online</a> instead!"
 		}
@@ -45,19 +37,19 @@
 	"rotating_outro_text": "previous calls",
 	"videos": [
 		{
+			"title": "UTXOs and a Bitcoin-like Chain",
+			"description": "This week Nicole Zhu and Joshy Orndorff discuss the architecture of a Bitcoin-like node built with Substrate.",
+			"link": "https://www.youtube.com/watch?v=XuJmxMMHvDw&list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS"
+		},
+		{
+			"title": "StructOpt and the Substrate CLI",
+			"description": "This week Cecile Tonglet explores how Substrate uses the Stuct Opt library to build an extensible CLI interface.",
+			"link": "https://www.youtube.com/watch?v=IVifko1fqjw&list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS"
+		},
+		{
 			"title": "Stable Coin and Storage Adapters",
 			"description": "Alexander Popiak joins us to discuss his uncollateralized stablecoin implementation and the 'Transient Storage Adapters' pattern",
 			"link": "https://www.youtube.com/watch?v=bnC5RQsaAXQ&list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS"
-		},
-		{
-			"title": "Manual Seal and Instant Seal",
-			"description": "This week Seun LanLege helps us build a Substrate node that uses manual seal and instant seal consensus engines.",
-			"link": "https://www.youtube.com/watch?v=uhkV0jAcWDY&list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS"
-		},
-		{
-			"title": "Moonbeam and EVM Pallet",
-			"description": "Derek from Purestake tells us about their Moonbeam contract chain, and Parity's Kirill Taran demonstrates using the EVM pallet.",
-			"link": "https://www.youtube.com/watch?v=lXw6GTNh73Y&list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS"
 		}
 	],
 	"footer_text": "don't miss the next seminar"
