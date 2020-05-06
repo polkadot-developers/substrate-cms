@@ -524,6 +524,11 @@
 			"name": "Yeeco",
 			"image": "assets/logos/yeeco.png",
 			"link": "https://www.yeeco.io/"
+		},
+		{
+			"name": "SUBSCAN",
+			"image": "assets/logos/SUBSCAN.png",
+			"link": "https://subscan.io/"
 		}
 	]
 }
