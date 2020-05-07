@@ -1,0 +1,103 @@
+{
+	"slug": "home",
+	"lang": "en",
+	"title": "Substrate_",
+	"description": "The blockchain framework that helps you focus on your vision.",
+	"hero": {
+		"strings": {
+			"build_your": "build your",
+			"blockchain": "blockchain"
+		},
+		"rotating_text": [ "smart contract", "finance", "IoT", "governance", "identity", "privacy" ]
+	},
+	"intro": {
+		"title": "Build Any Blockchain",
+		"content": "Substrate comes with everything you need to build your blockchain. Use Substrate’s pallets to easily create what you want, or craft your own custom logic. Either way, Substrate makes building a blockchain far faster, easier, and safer than ever before.",
+		"button_text": "Open Knowledgebase"
+	},
+	"features": [
+		{
+			"class": "cross-lang-support",
+			"title": "Cross-Language Support with WebAssembly",
+			"content": "WebAssembly is the next web standard. Write your blockchain logic in any language that can compile to it, including C/C++, C#, Typescript, and Rust."
+		},
+		{
+			"class": "light-client",
+			"title": "Light-Client Friendly",
+			"content": "Substrate comes with a light client built in from day one. Use your mobile-ready blockchain anywhere."
+		},
+		{
+			"class": "forkless-upgrades",
+			"title": "Forkless Upgrades",
+			"content": "Upgrading blockchains has never been easier. With Substrate, everybody stays on the same path."
+		},
+		{
+			"class": "coordination",
+			"title": "Built-in Coordination",
+			"content": "Substrate comes with the tools to help networks decide which upgrades to implement."
+		},
+		{
+			"class": "finality",
+			"title": "Deterministic Finality",
+			"content": "Substrate’s GRANDPA algorithm reaches and finalizes consensus quickly, across networks big and small."
+		},
+		{
+			"class": "integration",
+			"title": "Seamless Integration",
+			"content": "Integrate your existing data, business logic, and other complex tasks into your blockchain with low overhead using off-chain workers."
+		}
+	],
+	"get_started": {
+		"title": "Get Started",
+		"content": "Open the Substrate Playground and create your first Substrate Chain with a tutorial!",
+		"buttons": [
+			{
+				"text": "Open Playground",
+				"url": "https://playground.substrate.dev/",
+				"new_window": true
+			},
+			{
+				"text": "Start the Tutorial",
+				"url": "/tutorials/create-your-first-substrate-chain",
+				"new_window": false
+			}
+		]
+	},
+	"polkadot": {
+		"title": "Your Blockchain on Polkadot",
+		"content": "Your Substrate blockchain is natively compatible with Polkadot, making it simple to secure your blockchain and communicate with Polkadot’s network.",
+		"button_text": "Learn More",
+		"button_url": "https://polkadot.network/"
+	},
+	"future_ready": {
+		"title": "Your Future-Ready Blockchain",
+		"content": "With on-chain upgrades, a light client-first design, and off-chain workers, your Substrate blockchain is ready for whatever the future brings. Integrate the latest innovations using forkless updates and transparent decision-making."
+	},
+	"teams": {
+		"title": "Teams are choosing Substrate",
+		"content": "Deterministic finality. Speed of implementation. Ease of use. Learn why Substrate is the choice for teams building the next generation of decentralized apps and infrastructure.",
+		"button_text": "See the teams using Substrate"
+	},
+	"ecosystem": {
+		"title": "Your Blockchain Ecosystem",
+		"ctas": [
+			{
+				"title": "Learn Substrate",
+				"content": "Join the growing community of Substrate developers with tutorials, high-level documentation, a weekly seminar, and more.",
+				"button_text": "Open Knowledgebase",
+				"button_url": "/knowledgebase"
+			},
+			{
+				"title": "Get Support",
+				"content": "Hop on our public chat and get help directly from Parity developers and Substrate community members. Connect with the community.",
+				"button_text": "Join the Riot Chat",
+				"button_url": "https://riot.im/app/#/room/!HzySYSaIhtyWrwiwEV:matrix.org",
+				"new_window": true
+			}
+		]
+	},
+	"newsletter": {
+		"title": "The Newsletter",
+		"content": "Get Substrate news and tips in your inbox!"
+	}
+}
