@@ -37,19 +37,19 @@
 	"rotating_outro_text": "previous calls",
 	"videos": [
 		{
-			"title": "UTXOs and a Bitcoin-like Chain",
-			"description": "This week Nicole Zhu and Joshy Orndorff discuss the architecture of a Bitcoin-like node built with Substrate.",
-			"link": "https://www.youtube.com/watch?v=XuJmxMMHvDw&list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS"
+			"title": "Offline Phragmen and Hybrid Consensus",
+			"description": " Kian Paimani demonstrates his Offline Phragmen tool and uses it as a template for making arbitrary Substrate Calls. Joshy Orndorff demonstrates hybrid consensus with Proof of Work authoring and Proof of Stake finality.",
+			"link": "https://www.youtube.com/watch?v=6omrrY11HEg&list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS"
 		},
 		{
-			"title": "StructOpt and the Substrate CLI",
-			"description": "This week Cecile Tonglet explores how Substrate uses the Stuct Opt library to build an extensible CLI interface.",
-			"link": "https://www.youtube.com/watch?v=IVifko1fqjw&list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS"
+			"title": "Substrate UI with Vue and Subsocial",
+			"description": "At this week's seminar we see a live demo of building a UI for a Substrate chain using vue js. Then we get a demo and tour of Subsocial.",
+			"link": "https://www.youtube.com/watch?v=6omrrY11HEg&list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS"
 		},
 		{
-			"title": "Stable Coin and Storage Adapters",
-			"description": "Alexander Popiak joins us to discuss his uncollateralized stablecoin implementation and the 'Transient Storage Adapters' pattern",
-			"link": "https://www.youtube.com/watch?v=bnC5RQsaAXQ&list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS"
+			"title": "Transaction Lifecycle",
+			"description": "Today we discuss the lifecycle of transactions in Substrate and the various types of transactions that exist.",
+			"link": "https://www.youtube.com/watch?v=6omrrY11HEg&list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS"
 		}
 	],
 	"footer_text": "don't miss the next seminar"
