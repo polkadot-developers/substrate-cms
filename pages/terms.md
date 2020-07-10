@@ -33,7 +33,7 @@ In addition to these Terms, please note that:
 - if you submit a module, pallet, tool or any other content to us for hosting, publishing or display
   on the Marketplace sub-domain of the Site , that submission will be governed by our Contributor
   T&amp;Cs;
-- if you access and use the Playground sub-domain of the Site (, that access and use will be
+- if you access and use the Playground sub-domain of the Site , that access and use will be
   governed by the Playground User T&amp;Cs;
 - the Site uses cookies, the use of which are governed by our cookies policy (available
   [here](https://www.parity.io/privacy/)); and
