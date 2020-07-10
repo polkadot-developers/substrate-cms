@@ -1,225 +1,316 @@
 ---
 slug: terms
 lang: en
-title: Terms of Website Use
+title: SUBSTRATE.IO – WEBSITE TERMS OF USE
 ---
 
-Please read these terms and conditions carefully before using this site
+_Please read these terms and conditions carefully before using this website._
 
-These terms of use (together with the documents referred to in them) tell you the terms of use on which you may make use of our website substrate.io and any of its subdomains (our site), whether as a guest or a registered user. Use of our site includes accessing, browsing, or registering to use our site.
+Parity Technologies Limited ("**Parity**") is a company registered in England and Wales under
+company number 09760015 with its registered office at Ignition Law, Moray House, Floor 1, Moray
+House, 23-31 Great Titchfield Street, London, United Kingdom, WC1W 7PA. We operate the website
+substrate.io and any subdomains (including as identified below, as may change from time to time)
+(the "**Site**").
 
-By using our site, you confirm that you accept these terms of use and that you agree to comply with them.
+## Understanding these Terms of Use
 
-If you do not agree to these terms, you must not use our site.
+These terms of use (together with the documents referred to in it) (the "**Terms**") describe how
+you may access, browse, use and interact with the Site. By using the Site you confirm that you
+accept these Terms and that you agree to comply with them. **_If you do not agree to any part of
+these Terms, you must not use the Site._**
 
-We recommend that you print a copy of these terms for future reference.
+When certain words and phrases are used in these Terms, they have specific meanings (these are known
+as "defined terms"). You can identify these defined terms because they start with capital letters
+(even if they are not at the start of a sentence). Where a defined term is used, it has the meaning
+given to it in the section of these Terms where it was defined (you can find these meanings by
+looking at the sentence where the defined term is included in speech marks).
 
+In these Terms, when we refer to "**we**", "**us**" or "**our**", we mean Parity, and when we refer
+to "**you**" or "**your**" we mean the person accessing or using the Site.
 
-## Other applicable terms
+In addition to these Terms, please note that:
 
-These terms of use refer to the following additional terms, which also apply to your use of our site:
+- if you submit a module, pallet, tool or any other content to us for hosting, publishing or display
+  on the Marketplace sub-domain of the Site , that submission will be governed by our Contributor
+  T&amp;Cs;
+- if you access and use the Playground sub-domain of the Site (, that access and use will be
+  governed by the Playground User T&amp;Cs;
+- the Site uses cookies, the use of which are governed by our cookies policy (available
+  [here](https://www.parity.io/privacy/)); and
+- we only use your personal information in accordance with our privacy policy (available
+  [here](https://www.parity.io/privacy/)).
 
+## Accessing and using the Site
 
-- Our Substrate Playground and Marketplace Terms and Conditions, which set the terms of your use of Substrate Playground and / or Marketplace.
-- Our Privacy Policy, which sets out information about how we use your personal information and the use of cookies and local storage on our site.
+The Site is made available free of charge. We do not guarantee that the Site, or any content on it,
+will always be available or be uninterrupted. Access to the Site is permitted on a temporary basis.
+We may suspend, withdraw, discontinue or change all or any part of the Site without notice. We will
+not be liable to you if for any reason the Site is unavailable at any time or for any period.
 
-
-## Information about us
-
-substrate.io is a site operated by Parity Technologies Limited ("we", “us” or “Parity”). We are registered in England and Wales under company number 09760015 and have our registered office at Ignition Law Moray House, Floor 1, Moray House, 23-31 Great Titchfield Street, London, United Kingdom, WC1W 7PA.
-
-
-## Changes to these terms
-
-We may revise these terms of use at any time by amending this page. Please check this page from time to time to take notice of any changes we made, as they are binding on you.
-
-
-## Changes to our site
-
-We may update our site from time to time, and may change the content at any time. However, please note that any of the content on our site may be out of date at any given time, and we are under no obligation to update it. We do not guarantee that our site, or any content on it, will be free from errors or omissions.
-
-
-## Accessing our site
-
-Our site is made available free of charge.
-
-We do not guarantee that our site, or any content on it, will always be available or be uninterrupted. Access to our site is permitted on a temporary basis. We may suspend, withdraw, discontinue or change all or any part of our site without notice. We will not be liable to you if for any reason our site is unavailable at any time or for any period.
-
-You are responsible for making all arrangements necessary for you to have access to our site.
-You are also responsible for ensuring that all persons who access our site through your internet connection are aware of these terms of use and other applicable terms and conditions, and that they comply with them.
-
-
-## We may transfer this agreement to someone else
-
-**We may transfer our rights and obligations under these terms to another organisation. We will always tell you in writing if this happens and we will ensure that the transfer will not affect your rights under the contract.**
-
-
-## Intellectual property rights
-
-We are the owner or the licensee of all intellectual property rights in our site and its content, including the Parity and Substrate names and marks, as well as the material published on it. Those works are protected by intellectual property laws and treaties around the world. All such rights are reserved.
-
-You are not granted any right to use, and may not use, any of our intellectual property rights other than as set out in these terms. You must not commercially exploit our site (or any part of it or its content); however, you may download material from our site solely for internal, non-commercial, personal use by you. Our status (and that of any identified contributors) as the authors of content on our site must always be acknowledged.
-
-Save as required by applicable law, you shall not copy, reproduce, republish, upload, re-post, modify, transmit, distribute or otherwise use in any way for any non-personal, public or commercial purpose any part of our site including (without limitation) the text, designs, graphics, photographs, images and user generated content of other users without our prior written consent and (in the case of user generated content of a different user) the prior written consent of that user.
-
-You retain all ownership rights you have in the user generated content, but you hereby grant to us a perpetual, transferable, royalty-free license, irrevocable, worldwide, sub-licensable license to use, copy, modify, adapt, prepare derivative works from, distribute, perform and display your user generated content and any name, username, voice or likeness provided in connection with your user generated content in all media formats and channels now known or later developed. This license includes the right for us to make your user generated content available for syndication, broadcast, distribution or publication by other companies, organisations or individuals who partner with us. You also agree that we may remove metadata associated with your user generated content, and you irrevocably waive any claims and assertions of moral rights or attribution with respect to your user generated content. 
-
-If you copy, reproduce, republish, upload, re-post, modify, transmit, distribute or otherwise use any part of the content on our site in breach of these terms of use, your right to use our site will cease immediately and you must, at our option, return or destroy any copies of the materials you have made.
-
-
-## User-generated content is not approved by us
-
-In some sections of our site, you may be able to view, interact with or upload content generated by others. You may be able to supply or upload content to our site – whether it be pictures, text, sound recordings, code or whatever –  where you are able to do so the content you supply (“user generated content”) must conform with these terms. 
-
-You agree that you are solely responsible for any user generated content that you post, upload, link to or otherwise make available through certain sections of our site, regardless of the form of that content and that you bear responsibility for any harm caused by such content. 
-
-Our site may contain or include information and materials uploaded by other users of the site. This information and these materials have not been verified or approved by us. We take no responsibility for, and we do not expressly or implicitly endorse, any content – whether it be software built on substrate, pictures, text, sound recordings or whatever - supplied or uploaded by a user to our site. The views expressed by other users on our site through user generated content do not represent our views or values. User generated content is displayed on our sites as submitted and we do not perform any type of checks or verifications on it. We therefore cannot guarantee that any user generated content uploaded or shared to our site is correct, accurate, free of error or bugs. You therefore agree to be fully responsible for the way you decide to use or interact in any way with user generated content on our site.
-
-While we do not screen nor perform checks on user generated content, we may, at our sole discretion, resolve to delete in whole or in part any user generated content that contravenes our acceptable use policy or goes against any other of our policies and / or terms of use for our site.
-We have the right to disclose your identity to any third party who is claiming that any content posted or uploaded by you to our site constitutes a violation of their intellectual property rights or of their right to privacy.
-
-We will not be responsible or liable to any third party, for the content or accuracy of any content posted by you or any other user of our site.
-
-You are solely responsible for securing and backing up your content.
-
+You are responsible for making all arrangements necessary for you to have access to the Site. You
+are also responsible for ensuring that all persons who access the Site through your internet
+connection are aware of these Terms and other applicable terms and conditions, and that they comply
+with them.
 
 ## No reliance on information
 
-The content on our site is provided for general information only. It is not intended to amount to advice on which you should rely. You must obtain professional or specialist advice before taking, or refraining from, any action on the basis of the content on our site.
+The Site and the content on it are provided for general information purposes only. Nothing on the
+Site is intended to amount to advice on which you should rely. You must obtain professional or
+specialist advice before taking, or refraining from, any action on the basis of the content on the
+Site. Although we may update the information on the Site from time to time, we make no
+representations that the content on the Site is accurate, complete or up-to-date, or will be free
+from errors or omissions.
 
-Although we make reasonable efforts to update the information on our site, we make no representations, warranties or guarantees, whether express or implied, that the content on our site is accurate, complete, up-to-date or bug free.
+## Acceptable Use
 
+### General
 
-## Interactive services
+You agree not to:
 
-We may from time to time provide interactive services on our site, including, without limitation:
+1. use the Site in any way that breaches these Terms or any applicable local, national or
+   international law or regulation;
+1. copy, or otherwise reproduce or re-sell any part of the Site unless expressly permitted to do so
+   in these Terms; or
+1. do any act or thing that might damage, disrupt or otherwise interfere with the operation of the
+   Site or any equipment, network or software used in operating the Site.
 
-- Substrate Marketplace
-- Substrate Playground
+You expressly acknowledge and agree that any views expressed by other users on the Site do not
+necessarily represent our views or values.
 
-Your use of these services  may be governed by separate terms and conditions. Please refer to them where necessary. However, please note that these services are made available free of charge. We do not guarantee that they, or any of their content will always be available or be uninterrupted. Access to them is permitted on a temporary basis. We may suspend, withdraw, discontinue or change all or any part of those services without notice. We will not be liable to you if for any reason those services are unavailable at any time or for any period. We may update the services and/or change their content at any time.
+You are solely responsible for securing and backing up your content.
 
-We employ our best efforts to ensure that our services are secure, virus and bug free but we cannot warrant this will always be the case. Whenever you choose to use these services or download any content from them, whether uploaded by us, generated by you through the interactive services or any user generated content, you acknowledge that you do so at your own risk and responsibility. We are not responsible nor liable for any bugs, viruses or damages that may arise as a consequence of your use of these services or the content within them.
+### User Generated Content
 
+If it is the case that you supply and/or upload content to the Site – whether it be pictures, text,
+sound recordings or otherwise – the content you supply ("**User Generated Content**") must comply
+with the following rules:
 
-## Acceptable use of our sites
+1. it must not be obscene, abusive, offensive or racist and it must not promote or propose hatred or
+   physical harm against anyone;
+1. it must not harass or bully another person;
+1. it must be true and honest so far as you know;
+1. it must not be defamatory of anyone;
+1. it must not use the material or content or infringe the rights or privacy of anyone else;
+1. it must not contain someone else’s personal details or confidential information relating to other
+   people; and
+1. it must not promote or condone terrorism, violence or illegal behaviour.
 
-You may use our site only for lawful purposes and in accordance with the terms and conditions set out in this document. 
+You agree that any User Generated Content complies with those standards.
 
-You agree:
+If you are acting for purposes relating to your trade, business, craft or profession (a "**Business
+User**"), you will be liable to us and indemnify us for any losses, liabilities, damages, fines,
+penalties, expenses or costs ("**Losses**") that we may suffer or incur in connection with any
+failure of the User Generated Content to comply with these standards.
 
-- not to use our site in any unlawful manner, for any unlawful purpose or in any manner inconsistent with these terms of use;
-- not to infringe our intellectual property rights or those of any third party in relation to your use of our site or any part of it (to the extent that such use is not licensed under these terms);
-- not to transmit any material that is defamatory, offensive or otherwise objectionable in relation to your use of our site;
-- not to use our site by automated means or otherwise for the purposes of scraping, extracting or otherwise obtaining any material from our site for use within a third party website or application; 
-- not to collect or harvest any information or data from our systems or attempt to decipher any transmission to or from the servers running our site;
-- not to copy, or otherwise reproduce or re-sell any part of our site unless expressly permitted to do so in these terms; 
-- not to access, query or search our site with any automated system, other than through our published interfaces and pursuant to their applicable terms; and
-- not to create multiple accounts to evade punishment or avoid restrictions.
+We reserve the right to refuse or accept, remove, or refuse or cease to use any User Generated
+Content supplied by any person that we think contravenes these standards. We also have the right to
+disclose your identity to any third party who is claiming that any User Generated Content posted or
+uploaded by you to the Site constitutes a violation of their rights (including intellectual property
+rights or rights to privacy).
 
-User Generated Content
+You acknowledge, understand and agree that other users of the Site may upload or supply their own
+User Generated Content on the Site (in particular, though without limitation, users who submit
+pallets and tools to be made available on the Marketplace sub-domain). We are under no obligation to
+review, validate or correct any User Generated Content posted by you or by any other user of the
+Site (including pallet and tool submissions on the Marketplace sub-domain), and under no
+circumstances will be responsible or liable to you or any third party for the content or accuracy of
+any User Generated Content posted on the Site. We give no guarantee that any User Generated Content
+will be free from errors or omissions.
 
-If it is the case that you supply/upload any user generated content to our site – whether it be pictures, text, sound recordings or whatever – the content you supply must comply with the following rules:
+### Interactive Services
 
-- it must not be obscene, abusive, offensive or racist and it must not promote or propose hatred or physical harm against anyone;
-- it must not harass, bully, insult or intimidate another person;
-- it must be true and honest so far as you know;
-- it must not constitute pornography or be sexual or sexually suggestive involving minors;
-- it must not be defamatory of anyone;
-- it must not use the material or content or infringe the rights or privacy of anyone else; for example you should not use images of well-known characters, footage or music (unless it is your own or you have demonstrable legal rights to do so);
-- it must not contain someone else’s personal details or confidential information relating to other people; 
-- it must not promote discrimination, whether based on race, sex, religion, nationality, disability, sexual orientation or age;
-- it must not promote or condone terrorism, violence or illegal behaviour;
-- it must not be harmful to minors in any way;
-- it must not promote any illegal activity or otherwise be unlawful;
-- it must not impersonate any person, or misrepresent your identity or affiliation with any person; and
-- it must not give the impression that it emanates from or is endorsed by Parity, if this is not the case.
+In addition, we may from time to time provide interactive services on the Site that shall enable you
+to upload User Generated Content, including, without limitation comment facilities, chat rooms
+and/or bulletin boards (together "**Interactive Services**").
 
-We reserve the right to refuse to accept or refuse or cease to use any user generated content supplied by any person that we think contravenes these terms or otherwise may create liability for Parity. 
+Where we provide an Interactive Service, we will use reasonable endeavours to provide information to
+you about the kind of service offered and if it is moderated. However, we are under no obligation to
+oversee, monitor or moderate any Interactive Service we provide.
 
-We take no responsibility for, and we do not expressly or implicitly endorse, any user generated content. By submitting your user generated content, you represent and warrant that you have all rights, power and authority necessary to grant the rights to such user generated content as set out in these terms. As you alone are responsible for your user generated content, you may expose yourself to liability if you post or share user generated content without all necessary rights.
+The use of any of our Interactive Services by a minor is subject to the consent of their parent or
+guardian. We advise parents who permit their children to use an Interactive Service that it is
+important that they communicate with their children about their safety online. Minors who are using
+any Interactive Service should be made aware of the potential risks to them.
 
-We do not oversee, monitor or moderate any user generated content which is uploaded to our site. If you become aware of any user generated content that contravenes these terms, please contact us on legal@parity.io, providing details of: (i) the date on which it was posted and where it can be found on our site; (ii) the name and surname of the author or, if the author is a legal person, the author's business name; (iii) reasons why the content should be deleted; and (vi) copies of any communication with the author (if any).  
+### Viruses
 
+We do not guarantee that the Site will be secure or free from bugs or viruses. You are responsible
+for configuring your information technology, computer programmes and platform in order to access the
+Site. You should use your own virus protection software.
 
-## Viruses
+You must not misuse the Site by knowingly introducing viruses, trojans, worms, logic bombs or other
+material which is malicious or technologically harmful. You must not attempt to gain unauthorised
+access to the Site, the server on which the Site is stored or any server, computer or database
+connected to the Site. You must not attack the Site via a denial-of-service attack or a distributed
+denial-of service attack. By breaching this provision, you would commit a criminal offence under the
+Computer Misuse Act 1990. We will report any such breach to the relevant law enforcement authorities
+and we will co-operate with those authorities by disclosing your identity to them. In the event of
+such a breach, your right to use the Site will cease immediately.
 
-We do not guarantee that our site will be secure or free from bugs or viruses. You are responsible for configuring your information technology, computer programmes and platform in order to access our site. You should use your own virus protection software.
+## Intellectual property rights
 
-You must not misuse our site by knowingly introducing viruses, trojans, worms, logic bombs or other material which is malicious or technologically harmful. You must not attempt to gain unauthorised access to our site, the server on which our site is stored or any server, computer or database connected to our site. You must not attack our site via a denial-of-service attack or a distributed denial-of service attack. By breaching this provision, you would commit a criminal offence under the Computer Misuse Act 1990. We will report any such breach to the relevant law enforcement authorities and we will cooperate with those authorities by disclosing your identity to them. In the event of such a breach, your right to use our site will cease immediately.
+Other than in relation to User Generated Content, we are the owner or licensee of all intellectual
+property rights in the Site and its content, the Parity name and mark. Those works are protected by
+intellectual property laws and treaties around the world. All such rights are reserved.
 
+You must not use the Site (or any part of it or its content) as part of any commercial offering,
+though you may use it for your own purposes. You are not granted any right to use, and may not use,
+any of our intellectual property rights other than as set out in these Terms - however, you may
+print off one copy, and may download extracts, of any page(s) from the Site for your non-commercial,
+personal use and you may draw the attention of others within your organisation to content posted on
+the Site.
 
-## Linking to our site
+You must not modify the paper or digital copies of any materials you have printed off or downloaded
+in any way, and you must not use any illustrations, photographs, video or audio sequences or any
+graphics separately from any accompanying text.
 
-You may link to our home page, provided you do so in a way that is fair and legal and does not damage our reputation or take advantage of it.
+No part of the Site, including, without limitation, the text, designs, graphics, photographs and
+images contained in it, may be copied, reproduced, republished, uploaded, re-posted, modified,
+transmitted or distributed or otherwise used in any way for any non-personal, commercial purpose
+without our prior written consent or as expressly permitted under these Terms. Our status (and that
+of any identified contributors) as the authors of content on the Site must always be acknowledged.
+If you print off, copy or download any part of the Site in breach of these Terms, your right to use
+the Site will cease immediately and you must, at our option, return or destroy any copies of the
+materials you have made.
 
-You must not establish a link in such a way as to suggest any form of association, approval or endorsement on our part where none exists.
-
-You must not establish a link to our site in any website that is not owned by you.
-
-Our site must not be framed on any other site, nor may you create a link to any part of our site other than the home page.
-
-We reserve the right to withdraw linking permission without notice.
-
-The website in which you are linking must comply in all respects with the content standards set out in the ‘acceptable use of our sites’ section of these terms of use.
-
-If you wish to make any use of content on our site other than that set out above, please contact [admin@parity.io](mailto:admin@parity.io).
-
-
-## Third party links and resources in our site
-
-Where our site contains links to other sites and resources provided by third parties, these links are provided for your information only.
-
-We have no control over the contents of those sites or resources and suggest that you refer to their Terms of Use and Privacy Policies.
-
+Any content (including User Generated Content), communications or materials you send to us through
+the Site by electronic mail or other means will be treated as non-proprietary and non-confidential.
+You grant us a non-exclusive, perpetual and irrevocable, royalty-free, sub-licensable, fully paid
+up, worldwide licence to use, copy, modify, adapt, amend, prepare derivative works of, publish,
+transmit, incorporate and distribute any ideas, suggestions, concepts, designs, know-how and other
+information contained in such communications or materials (including User Generated Content) for any
+purpose, including, but not limited to, developing, manufacturing, advertising and marketing us and
+our service and products.
 
 ## Limitation of our liability
 
-Nothing in these terms excludes or limits our liability for:
+### General exclusions
 
-- death or personal injury caused by our negligence;
-- fraud or fraudulent misrepresentation; and
-- any matter in respect of which it would be unlawful for us to exclude or restrict our liability.
-    - We assume no responsibility for the content of websites, web applications or mobile applications linked to from our site (including links to any third party browser extensions providing voting functionality or notification facilities or links to our commercial sponsors and partners). Such links should not be interpreted as endorsement by us of those linked websites or mobile applications. We will not be liable for any loss or damage that may arise from your use of them.
-    - We make no representations about the reliability, availability, timeliness or accuracy of the content included on our site and we exclude all conditions, warranties, or other terms which may apply to our sites or any content on them, whether express or implied.
-    - We will not be liable for any loss or damage caused by a virus, distributed denial-of-service attack, or other technologically harmful material that may infect your computer equipment, computer programs, data or other proprietary material due to your use of our sites or to your downloading of any content on them, or on any website linked to them.
+Nothing in these Terms excludes or limits our liability for: (a) death or personal injury caused by
+our negligence; (b) fraud or fraudulent misrepresentation; or (c) any matter in respect of which it
+would be unlawful for us to exclude or restrict our liability.
 
+We assume no responsibility for the content of websites linked on the Site (including links to our
+commercial sponsors and partners, and including Github). Such links should not be interpreted as
+endorsement by us of those linked websites, and we will not be liable for any Losses that may arise
+from your use of them.
 
-## If you are a business
+### If you are a Business User
 
-If you are acting for purposes relating to your trade, business, craft or profession, then:
+If you are a Business User, then subject to the first paragraph under 'General exclusions' above:
 
-- you agree to use our site for internal purposes only and in no event shall we be liable to you for any loss of profits, loss of revenue, loss of contracts, failure to realise anticipated savings or for any indirect or consequential loss, whether arising from negligence, breach of contract or otherwise; and
-- our total liability to you for any loss or damage arising out of or in connection with these terms, whether in contract (including under any indemnity), tort (including negligence) or otherwise shall be limited to £100. 
+1. to the maximum extent permitted by law, we exclude all conditions, warranties, representations or
+   other terms which may apply to the Site or any content on it, whether express or implied;
+1. in no event shall we be liable to you for any loss of profits, loss of revenue, loss of
+   contracts, loss or corruption of data, failure to realise anticipated savings or for any indirect
+   or consequential loss, whether arising in contract, tort (including negligence),
+   misrepresentation (whether statutory or tortious), breach of statutory duty or otherwise; and
+1. our total liability to you for any Losses arising out of or in connection with these Terms,
+   whether in contract (including under any indemnity), tort (including negligence),
+   misrepresentation (whether statutory or tortious), breach of statutory duty or otherwise shall be
+   limited to £100.
 
-You shall indemnify and hold us harmless against any losses, costs, liabilities and expenses suffered or incurred by us and/or our affiliates as a result of any breach of these terms. 
+You shall indemnify and hold us harmless against any losses, costs, liabilities and expenses
+suffered or incurred by us and/or our affiliates as a result of any breach of these Terms.
 
+### If you are a consumer
 
-## If you are a consumer
+If you are acting for purposes that are wholly or mainly outside your trade, business, craft or
+profession then, save as set out in the first paragraph under 'General exclusions' above, the
+following provisions shall apply.
 
-If you are acting for purposes that are wholly or mainly outside your trade, business, craft or profession then
+Our total liability to you for any Losses arising out of or in connection with these Terms, whether
+in contract (including under any indemnity), tort (including negligence) or otherwise shall be
+limited to £100.
 
-- If we fail to comply with these terms, we are responsible for loss or damage you suffer that is a foreseeable result of our breach of these terms  or our negligence, but we are not responsible for any loss or damage that is not foreseeable. Loss or damage is foreseeable if it was an obvious consequence of our breach or if it was contemplated by you and us at the time that you accessed our site.
-- Our total liability to you for any loss or damage arising out of or in connection with these terms, whether in contract (including under any indemnity), tort (including negligence) or otherwise shall be limited to £100. 
-- Nothing in these terms affects your statutory rights. Advice about your statutory rights is available from your local Citizens' Advice Bureau or Trading Standards Office.
-- You agree not to use our site, or any content on our site, for any commercial or business purposes and we have no liability to you for any loss of profit, loss of business, business interruption, or loss of business opportunity.
+Nothing in these Terms affects your statutory rights. Advice about your statutory rights is
+available from your local Citizens' Advice Bureau or Trading Standards Office.
 
+We only supply the Site to you for domestic and private use. You agree not to access and use the
+Site, or any content on the Site, for any commercial or business purposes and we have no liability
+to you for any loss of profit, loss or corruption of data, loss of business, business interruption,
+or loss of business opportunity.
 
-## Applicable law
+## Suspension and termination
 
-If you are a consumer, please note that these terms of use, its subject matter and its formation, are governed by the law of England and Wales. You and we both agree that the courts of England and Wales will have non-exclusive jurisdiction. However, if you are a resident of Northern Ireland you may also bring proceedings in Northern Ireland, and if you are resident of Scotland, you may also bring proceedings in Scotland.
+If you breach any of these Terms, we may immediately do any or all of the following (without
+limitation): (a) issue a warning to you; (b) temporarily or permanently remove any User Generated
+Content uploaded by you to the Site; (c) temporarily or permanently withdraw your right to use the
+Site; (d) issue legal proceedings against you for reimbursement of all costs resulting from the
+breach (including, but not limited to, reasonable administrative and legal costs); (e) take further
+legal action against you; and/or (f) disclose such information to law enforcement authorities as we
+reasonably feel is necessary to do so.
 
-If you are a business, these terms of use, its subject matter and its formation (and any non-contractual disputes or claims) are governed by the law of England and Wales. We both agree to the exclusive jurisdiction of the courts of England and Wales.
+## Changes to the Site and these Terms
 
+We may update the Site from time to time, and may change the content at any time. However, please
+note that any of the content on the Site may be out of date at any given time, and we are under no
+obligation to update it.
 
-----------
+We may revise and make changes to these Term at any time and from time to time. Please check these
+Terms regularly to ensure that you understand the Terms that apply at the time that you access and
+use the Site.
+
+## Other important information
+
+Each of the provisions of these Terms operates separately. If any court or relevant authority
+decides that any of them are unlawful or unenforceable, the remaining clauses will remain in full
+force and effect.
+
+If we fail to insist that you perform any of your obligations under these Terms, or if we do not
+enforce our rights against you, or if we delay in doing so, that will not mean that we have waived
+our rights against you and will not mean that you do not have to comply with those obligations. If
+we do waive a default by you, we will only do so in writing, and that will not mean that we will
+automatically waive any later default by you.
+
+If you wish to have more information on online dispute resolution, please follow this link to the
+website of the European Commission: http://ec.europa.eu/consumers/odr/. This link is provided as
+required by Regulation (EU) No 524/2013 of the European Parliament and of the Council, for
+information purposes only. We are not obliged to participate in online dispute resolution.
+
+## Governing law and jurisdiction
+
+### If you are a Business User
+
+These Terms are governed by the laws of England and Wales. This means that your access to and use of
+the Site, and any dispute or claim arising out of or in connection therewith (including
+non-contractual disputes or claims), will be governed by English law.
+
+The courts of England and Wales will have exclusive jurisdiction over any disputes between us
+(including non-contractual disputes or claims).
+
+### If you are a consumer
+
+These Terms are governed by the laws of England and Wales. This means that your access to and use of
+the Site, and any dispute or claim arising out of or in connection therewith (including
+non-contractual disputes or claims), will be governed by English law.
+
+You may bring any dispute which may arise under these Terms to – at your discretion - either the
+competent court of England, or to the competent court of your country of habitual residence if this
+country of habitual residence is an EU Member State, which courts are – with the exclusion of any
+other court - competent to settle such a dispute. We shall bring any dispute which may arise under
+these Terms to the competent court of your country of habitual residence if this is in an EU Member
+State, or otherwise the competent court of England.
+
+As a consumer, if you are resident in the European Union and we direct the Site to (and/or pursue
+our commercial or professional activities in relation to the Site in) the EU Member State in which
+you are resident, you will benefit from any mandatory provisions of the law of the country in which
+you are resident. Nothing in these Terms, including in the two paragraphs immediately above, affect
+your rights as a consumer to rely on such mandatory provisions of local law.
+
+---
 
 ## Contact us
 
-To contact us, please email admin@parity.io.
+Should you have any reasons for a complaint, we will endeavour to resolve the issue and avoid any
+re-occurrence in the future. You can always contact us by using the following details:
 
+Address: Ignition Law, Moray House Floor 1, 23-31 Great Titchfield Street, London, United Kingdom,
+WC1W 7PA
 
-----------
+Email address: legal@parity.io
+
+---
 
 ## Statutory information
 
@@ -227,8 +318,9 @@ Statutory information about Parity Technologies Limited:
 
 - Registered in England and Wales
 - Registered Number: 09760015
-- Registered Office: Ignition Law, Moray House Floor 1, 23-31 Great Titchfield Street, London, United Kingdom, WC1W 7PA.
+- Registered Office: Ignition Law, Moray House Floor 1, 23-31 Great Titchfield Street, London,
+  United Kingdom, WC1W 7PA.
 
-Thank you for visiting our site.
+Thank you for visiting the Site.
 
-
+**Terms last updated: 10 July 2020**
