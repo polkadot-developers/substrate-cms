@@ -7,8 +7,7 @@ title: SUBSTRATE.IO – WEBSITE TERMS OF USE
 _Please read these terms and conditions carefully before using this website._
 
 Parity Technologies Limited ("**Parity**") is a company registered in England and Wales under
-company number 09760015 with its registered office at Ignition Law, Moray House, Floor 1, Moray
-House, 23-31 Great Titchfield Street, London, United Kingdom, WC1W 7PA. We operate the website
+company number 09760015 with its registered office at Ignition Law, 1 Sans Walk, London, England, EC1R 0LT. We operate the website
 substrate.io and any subdomains (including as identified below, as may change from time to time)
 (the "**Site**").
 
@@ -305,9 +304,7 @@ your rights as a consumer to rely on such mandatory provisions of local law.
 Should you have any reasons for a complaint, we will endeavour to resolve the issue and avoid any
 re-occurrence in the future. You can always contact us by using the following details:
 
-Address: Ignition Law, Moray House Floor 1, 23-31 Great Titchfield Street, London, United Kingdom,
-WC1W 7PA
-
+Address: Ignition Law, 1 Sans Walk, London, England, EC1R 0LT
 Email address: legal@parity.io
 
 ---
@@ -318,9 +315,8 @@ Statutory information about Parity Technologies Limited:
 
 - Registered in England and Wales
 - Registered Number: 09760015
-- Registered Office: Ignition Law, Moray House Floor 1, 23-31 Great Titchfield Street, London,
-  United Kingdom, WC1W 7PA.
+- Registered Office: Ignition Law, 1 Sans Walk, London, England, EC1R 0LT
 
 Thank you for visiting the Site.
 
-**Terms last updated: 10 July 2020**
+**Terms last updated: 10 December 2020**
