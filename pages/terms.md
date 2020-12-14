@@ -305,6 +305,7 @@ Should you have any reasons for a complaint, we will endeavour to resolve the is
 re-occurrence in the future. You can always contact us by using the following details:
 
 Address: Ignition Law, 1 Sans Walk, London, England, EC1R 0LT
+
 Email address: legal@parity.io
 
 ---
