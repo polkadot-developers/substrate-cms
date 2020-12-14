@@ -7,9 +7,9 @@ title: SUBSTRATE.IO – WEBSITE TERMS OF USE
 _Please read these terms and conditions carefully before using this website._
 
 Parity Technologies Limited ("**Parity**") is a company registered in England and Wales under
-company number 09760015 with its registered office at Ignition Law, 1 Sans Walk, London, England, EC1R 0LT. We operate the website
-substrate.io and any subdomains (including as identified below, as may change from time to time)
-(the "**Site**").
+company number 09760015 with its registered office at Ignition Law, 1 Sans Walk, London, England,
+EC1R 0LT. We operate the website substrate.io and any subdomains (including as identified below, as
+may change from time to time) (the "**Site**").
 
 ## Understanding these Terms of Use
 
@@ -32,8 +32,8 @@ In addition to these Terms, please note that:
 - if you submit a module, pallet, tool or any other content to us for hosting, publishing or display
   on the Marketplace sub-domain of the Site , that submission will be governed by our Contributor
   T&amp;Cs;
-- if you access and use the Playground sub-domain of the Site , that access and use will be
-  governed by the Playground User T&amp;Cs;
+- if you access and use the Playground sub-domain of the Site , that access and use will be governed
+  by the Playground User T&amp;Cs;
 - the Site uses cookies, the use of which are governed by our cookies policy (available
   [here](https://www.parity.io/privacy/)); and
 - we only use your personal information in accordance with our privacy policy (available
