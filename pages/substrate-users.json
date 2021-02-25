@@ -139,6 +139,12 @@
 			"image": "assets/logos/kusama_01.png",
 			"link": "https://kusama.network/"
 		},
+	
+		{
+			"name": "KodaDot",
+			"image": "assets/logos/kodaDot.png",
+			"link": "https://twitter.com/KodaDot"
+		},	
 		{
 			"name": "Bifrost",
 			"image": "assets/logos/Bifrost.png",
